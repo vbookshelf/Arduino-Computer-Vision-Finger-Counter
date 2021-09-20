@@ -27,6 +27,7 @@ Arduino - Send Commands with Serial Communication<br>
 https://www.youtube.com/watch?v=utnPvE8hN3o
 
 Arduino - Bidirectional Serial Communication with Raspberry Pi<br>
+(It doesn't have to be a Raspberry Pi. It could also be a pc or laptop.)
 https://www.youtube.com/watch?v=OJtpA_qTNL0
 
 Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision<br>
