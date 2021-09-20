@@ -14,3 +14,24 @@ This simple technique opens up a world of possibilities...
 <i>It's like a finger pointing away to the moon.<br>
 Don't concentrate on the finger or you will miss all that heavenly glory.</i><br>
 ~ Bruce Lee
+
+<br>
+
+## Reference Resources
+
+These tutorials will help you understand what 
+my code is doing. Instead of studying the code in this repo, you
+could just watch these tutorials and implement this project yourself.
+
+Arduino - Send Commands with Serial Communication<br>
+https://www.youtube.com/watch?v=utnPvE8hN3o
+
+Arduino - Bidirectional Serial Communication with Raspberry Pi<br>
+https://www.youtube.com/watch?v=OJtpA_qTNL0
+
+Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision<br>
+https://www.youtube.com/watch?v=NZde8Xt78Iw&t=1603s
+
+Also, if you have never used OpenCV with a webcam then I suggest watching
+this tutorial:<br>
+https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=305s
