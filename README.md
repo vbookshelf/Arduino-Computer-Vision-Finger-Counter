@@ -36,3 +36,29 @@ https://www.youtube.com/watch?v=NZde8Xt78Iw&t=1603s
 Also, if you have never used OpenCV with a webcam then I suggest watching
 this tutorial:<br>
 https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=305s
+
+
+<br>
+
+## How to run this project 
+
+These instructions are for Mac OSX but the process to run a python file should be similar in Windows.
+
+1- Connect your Arduino to a USB port on your laptop.<br>
+2- Up load the skectch to your Arduino.<br>
+3- Change the port variable in the arduino-finger-counter.py file to match the port you are using. The steps to do this are described in the arduino-finger-counter.py file.<br>
+4- On the command line: Navigate to the folder containing the arduino-finger-counter.py file.<br>
+5- On the command line type: python arduino-finger-counter.py
+6- A window will open showing what your webcam is seeing.
+7- Hold up your hand in front of your webcam.
+8- Show one finger to turn the Arduino LED on.
+9- Show two fingers to turn the Arduino LED off.
+
+## Packages
+
+These are the package versions that I used:
+
+- Python 3.7.0
+- mediapipe==0.8.7.3
+- pyserial==3.5
+
