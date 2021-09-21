@@ -50,7 +50,7 @@ These instructions are for Mac OSX but the process to run a python file should b
 4- On the command line: Navigate to the folder containing the arduino-finger-counter.py file.<br>
 5- On the command line type: python arduino-finger-counter.py
 6- A window will open showing what your webcam is seeing.
-7- Hold up your hand in front of your webcam.
+7- Hold up your right hand in front of your webcam.
 8- Show one finger to turn the Arduino LED on.
 9- Show two fingers to turn the Arduino LED off.
 
