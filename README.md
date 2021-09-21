@@ -20,8 +20,8 @@ Also, in this example we fed hand imges, via a webcam, to a machine learning mod
 ## Reference Resources
 
 These tutorials will help you understand what 
-my code is doing. Instead of studying the code in this repo, you
-could just watch these tutorials and implement this project yourself.
+the code is doing. Instead of studying the code, you
+could watch these tutorials and implement this project yourself.
 
 Arduino - Send Commands with Serial Communication<br>
 https://www.youtube.com/watch?v=utnPvE8hN3o
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=305s
 These instructions are for Mac OSX but the process to run a python file should be similar in Windows.
 
 1- Connect your Arduino to a USB port on your laptop.<br>
-2- Up load the skectch to your Arduino.<br>
+2- Upload the skectch to your Arduino.<br>
 3- Change the port variable in the arduino-finger-counter.py file to match the port you are using. The steps to do this are described in the arduino-finger-counter.py file.<br>
 4- On the command line: Navigate to the folder containing the arduino-finger-counter.py file.<br>
 5- On the command line type: python arduino-finger-counter.py
