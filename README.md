@@ -6,6 +6,10 @@ By using serial communication it's possible to combine the power of a pc with a 
 
 This project demonstrates how to send data between a python script (running on a laptop) and an Arduino. It takes just a few lines of code to get the serial communication working.
 
+<br>
+<img src="https://github.com/vbookshelf/Arduino-Computer-Vision-Finger-Counter/blob/main/images/project-images.png" width="500"></img>
+<br>
+
 This is what this project does: A person holds up one or two fingers in front of a laptop webam. A cpu based computer vision hand keypoint detector (from Google  Mediapipe) is used to detect how many fingers are being held up. This count is displayed on the screen. 
 
 The LED_BUILTIN is an LED that is built into the Arduino.<br>
