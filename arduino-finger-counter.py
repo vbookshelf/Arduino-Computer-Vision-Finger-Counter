@@ -93,9 +93,7 @@ mp_draw = mp.solutions.drawing_utils
 
 # Set the drawing specs.
 # the defaults also look fine.
-draw_specs = mp_draw.DrawingSpec(color=WHITE_COLOR,
-								thickness=2, 
-								circle_radius=2)
+draw_specs = mp_draw.DrawingSpec(color=WHITE_COLOR, thickness=2, circle_radius=2)
 
 mp_pose = mp.solutions.hands
 pose = mp_pose.Hands(static_image_mode=False,
