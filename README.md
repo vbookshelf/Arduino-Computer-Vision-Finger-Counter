@@ -20,8 +20,7 @@ Also, in this example we fed hand imges, via a webcam, to a machine learning mod
 ## Reference Resources
 
 These tutorials will help you understand what 
-the code is doing. Instead of studying the code, you
-could watch these tutorials and implement this project yourself.
+the code is doing. You could watch these tutorials and implement this project yourself.
 
 Arduino - Send Commands with Serial Communication<br>
 https://www.youtube.com/watch?v=utnPvE8hN3o
@@ -48,10 +47,10 @@ These instructions are for Mac OSX but the process to run a python file should b
 2- Upload the arduino-sketch folder to your Arduino.<br>
 3- Change the port variable in the arduino-finger-counter.py file to match the port you are using. The steps to do this are described in the arduino-finger-counter.py file.<br>
 4- On the command line: Navigate to the folder containing the arduino-finger-counter.py file.<br>
-5- On the command line type: python arduino-finger-counter.py
-6- A window will open showing what your webcam is seeing.
-7- Hold up your right hand in front of your webcam.
-8- Show one finger to turn the Arduino LED on.
+5- On the command line type: python arduino-finger-counter.py<br>
+6- A window will open showing what your webcam is seeing.<br>
+7- Hold up your right hand in front of your webcam.<br>
+8- Show one finger to turn the Arduino LED on.<br>
 9- Show two fingers to turn the Arduino LED off.
 
 ## Packages
