@@ -163,7 +163,7 @@ while True:
 	# against a black or a white background.
 	display_image = image
 	#display_image = black_image
-	#display_image = white_image
+	# display_image = white_image
 
 
 
@@ -173,8 +173,8 @@ while True:
 
 	if results.multi_hand_landmarks:
 
-		# We can have multiple faces.
-		# Therefore, we need to loop through the faces to draw them.
+		# We can have multiple hands.
+		# Therefore, we need to loop through the hands
 		for hand_landmarks in results.multi_hand_landmarks:
 			
 			x_list = []
@@ -217,7 +217,7 @@ while True:
 			# up or down.
 			# ......................................
 			
-			# On this page you will find a diagram that shows which index values
+			# By following this link you will find a diagram that shows which index values
 			# correspond to which points on a hand:
 			# https://google.github.io/mediapipe/solutions/hands#resources
 			
@@ -294,7 +294,7 @@ while True:
 	fps = 1/(current_time - start_time)
 	start_time = current_time
 
-	# Uncomment to display the frame rate on the image (top left corner)
+	# Uncomment this line to display the frame rate on the image (top left corner)
 	#cv2.putText(display_image, str(int(fps)), (70, 50), cv2.FONT_HERSHEY_PLAIN, 3,(255,255,255), 3)
 
 
