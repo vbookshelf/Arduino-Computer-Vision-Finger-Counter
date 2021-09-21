@@ -1,4 +1,4 @@
-## Arduino-Computer-Vision-Finger-Counter
+## Arduino Computer Vision Finger Counter
 
 [ Project Under Construction ]
 
