@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=305s
 These instructions are for Mac OSX but the process to run a python file should be similar in Windows.
 
 1- Connect your Arduino to a USB port on your laptop.<br>
-2- Upload the skectch to your Arduino.<br>
+2- Upload the arduino-sketch.ino file to your Arduino.<br>
 3- Change the port variable in the arduino-finger-counter.py file to match the port you are using. The steps to do this are described in the arduino-finger-counter.py file.<br>
 4- On the command line: Navigate to the folder containing the arduino-finger-counter.py file.<br>
 5- On the command line type: python arduino-finger-counter.py
