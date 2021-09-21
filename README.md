@@ -58,6 +58,8 @@ These instructions are for Mac OSX but the process to run a python file should b
 These are the package versions that I used:
 
 - Python 3.7.0
+- OpenCV
+- numpy==1.21.2
 - mediapipe==0.8.7.3
 - pyserial==3.5
 
