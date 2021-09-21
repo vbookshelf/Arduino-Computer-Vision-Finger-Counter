@@ -2,7 +2,7 @@
 
 [ Project Under Construction ]
 
-By using serial communication it's possible to combine the power of a pc with a low cost Arduino micro-controller. This opens up a world of possibilities to experiment with building physical machine learning devices and robotics products.
+By using serial communication it's possible to combine the power of a pc with a low cost Arduino micro-controller. This opens up a world of possibilities to experiment with homemade machine learning devices and robotics products.
 
 This project demonstrates how to send data between a python script (running on a laptop) and an Arduino. It takes just a few lines of code to get the serial communication working.
 
@@ -13,7 +13,7 @@ The python code, running on the laptop, sends the count to the Arduino. If one f
 
 The control voltage that the Arduino uses to turn on the LED could be used to perform many other actions - open a door, control the position of a robot arm, set off an alarm, apply the brakes on a self driving car and many more.
 
-Also, in this example we fed hand imges, via a webcam, to a machine learning model that then predicted hand keypoints. However, because we are using an Ardunio, this input could also be sensor data like tempertaure, vibration and pressure. This data could be continuously fed into a model to predict, for example, if a machine could fail in the next 24 hours.
+Also, in this example we fed hand imges, via a webcam, to a machine learning model that then predicted hand keypoints. However, because we are using an Ardunio, this input could also be sensor data like tempertaure, vibration and pressure. This data could be continuously fed into a model to predict, for example, if a machine will break down in the next 24 hours.
 
 <br>
 
