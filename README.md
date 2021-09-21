@@ -55,7 +55,7 @@ These instructions are for Mac OSX but the process to run a python file should b
 
 ## Packages
 
-These are the package versions that I used:
+These are the packages that I used:
 
 - Python 3.7.0
 - OpenCV
