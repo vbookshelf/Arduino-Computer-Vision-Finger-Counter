@@ -2,7 +2,7 @@
 
 [ Project Under Construction ]
 
-By using serial communication it's possible to combine the power of a pc with a low cost Arduino micro-controller. This opens up a world of possibilities to experiment with homemade machine learning devices and robotics products.
+By using serial communication it's possible to combine the power of a pc with a low cost Arduino micro-controller. This opens up a world of possibilities to experiment with building your own machine learning devices and robotics products.
 
 This project demonstrates how to send data between a python script (running on a laptop) and an Arduino. It takes just a few lines of code to get the serial communication working.
 
