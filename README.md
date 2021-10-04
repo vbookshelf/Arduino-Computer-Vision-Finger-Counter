@@ -15,7 +15,7 @@ The python code, running on the laptop, sends the count to the Arduino. If one f
 
 The voltage that the Arduino uses to turn on the LED could be used to perform many other actions - open a door, control the position of a robot arm, apply the brakes on a self driving car, set off an alarm and more.
 
-In this project we fed hand images from a webcam to a machine learning model. The model then predicted hand keypoints. However, because we are using an Ardunio, the input could also be sensor data like temperature and pressure. This data could be continuously fed to a model to predict, for example, if a machine will break down in the next 24 hours.
+In this project hand images are fed from a webcam to a machine learning model. The model then predicts hand keypoints. The python program uses these keypoints to determine whether a finger is up or down. However, because we are using an Ardunio, the input could also be sensor data like temperature and pressure. This data could be continuously fed to a model to predict, for example, if a machine will break down in the next 24 hours.
 
 <br>
 
